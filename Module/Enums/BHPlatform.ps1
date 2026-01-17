@@ -1,0 +1,4 @@
+enum BHPlatform{
+    AD
+    AZ
+    }
