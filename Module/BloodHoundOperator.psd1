@@ -9,10 +9,10 @@
     PowerShellVersion    = '5.1'
     CompatiblePSEditions = @('Desktop', 'Core')
 
-    FunctionsToExport    = '*'
+    FunctionsToExport    = @()
     CmdletsToExport      = @()
     VariablesToExport    = @()
-    AliasesToExport      = '*'
+    AliasesToExport      = @()
 
     PrivateData          = @{
         PSData = @{
